@@ -10,6 +10,7 @@ Done.
 Group Project - Test Case : <https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-16-all-stars/blob/main/Education_Pathways/tests/test_recommendations.py> 
 
 **Part 3**
+
 PROS:
 - Easier to maintain
 - Compatible with Agile
